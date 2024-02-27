@@ -26,6 +26,7 @@ clustering of commercial establishments to characterize behaviors based on Googl
    4. applying the PCA dimensionality reduction method, KMeans and MiniBatchKMeans to cluster the database using the features that characterize the database as an index.
    5. model test with silhouette_score
    6. creation of graphs to visualize clusters
+   7. output to excel
   
 
 
