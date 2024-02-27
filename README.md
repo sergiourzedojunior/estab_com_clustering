@@ -27,6 +27,8 @@ clustering of commercial establishments to characterize behaviors based on Googl
    5. model test with silhouette_score
    6. creation of graphs to visualize clusters
    7. output to excel
+
+ ![cluster_graf](newplot.png)
   
 
 
