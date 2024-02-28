@@ -29,6 +29,7 @@ clustering of commercial establishments to characterize behaviors based on Googl
    7. output to excel
 
  ![cluster_graf](newplot.png)
+ ![cluster_graf_v1](newplot_v1.png)
   
 
 
